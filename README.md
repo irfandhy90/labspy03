@@ -85,7 +85,7 @@ dan saya mendapat output seperti di bawah ini :
 
 ![img](gambar/program1.png)
 
-Terimakasih
+Terima kasih
 
 
 
